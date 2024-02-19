@@ -1,20 +1,15 @@
 # Sentiment Analysis Tool
 A sentiment analysis tool that can classify text as positive, negative, or neutral.that utilizes natural language processing (NLP) libraries like NLTK or spaCy
 
-
-
 ##  Game Plan
 1. Install Transformers
 2. Perform Sentiment Scoring using BERT
 3. Scrape reviews from Yelp and Score.
 
-
 ## Approach
 1. Download and install BERT from HF
 2. Run Sentiment Analysis on Reviews
 3. Scrape reviews from Yelp score
-
-
 
 ## Overview
 
